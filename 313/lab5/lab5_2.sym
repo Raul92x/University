@@ -1,0 +1,18 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DIV                     3026
+//	LOOP                    3013
+//	LOOP2                   301A
+//	LOOP3                   3030
+//	MULT                    300D
+//	POSLOOP                 3019
+//	QUIT1                   3018
+//	QUIT2                   301F
+//	QUIT3                   3037
+//	QUOT                    300B
+//	R                       300C
+//	SaveReg5                3024
+//	SaveReg6                3025
+//	X                       3008
+//	XY                      300A
+//	Y                       3009

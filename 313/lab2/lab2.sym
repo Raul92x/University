@@ -1,0 +1,12 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ABSX                    300A
+//	ABSY                    300F
+//	ABS_X                   301F
+//	ABS_Y                   3020
+//	NEG                     3018
+//	STORE                   301A
+//	X                       301C
+//	X_Y                     301E
+//	Y                       301D
+//	Z                       3021
