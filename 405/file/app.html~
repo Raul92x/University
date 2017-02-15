@@ -1,0 +1,19 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>file assignment</title>
+</head>
+
+<body>
+
+  <h1>test page</h1>
+
+  <p>This is some simple HTML. 
+     Normally, there would be more but for now it is simple.
+  </p>
+
+  <div> <img src="x.png"> </div>
+
+</body>
+</html>

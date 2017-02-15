@@ -1,0 +1,1 @@
+i performed the TryGit tutorial and learned many things about git and how to do cetain things on it aswell. here is my <a href="https://www.codeschool.com/users/rauldiaz">report card</a> that shows i completed the TryGit tutorial. i also read some documentation on git and learned what its for and wyh i should use it.
