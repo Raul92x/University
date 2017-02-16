@@ -1,0 +1,54 @@
+
+CSE 512 Lab Instructions --  Week 4
++++++++++++++++++++++++++++++++++++
+
+Implement the building blocks of the 8-puzzle game for graphsearch.
+
+1. Decide on a representation for the 8-puzzle state:
+
+   Example:
+
+      1 2 5
+      7 B 6
+      3 4 8
+
+  This state could be represented as:
+
+  (a) list of three lists puzz8 = [[1,2,5],[8,'B',6],[3,4,8]]  
+
+      (workable but not necessarily the easiest representation to be working with)
+
+  (b) as a dictionary with items (row,col):<tile no>
+
+      puzz8 = {(1,1):1, (1,2):2, (1,3):5, (2,1):8, .....}
+
+      (easier to handle than (a))
+
+  (c) as a class Puzz8: .... with datamembers and member functions (nice, but possibly
+      not worth the overhead
+
+
+2. Ability to test whether a given puzzle state is a goal state.
+
+3. A function that generates all possible (immediate) successor states to a given
+   puzzle state.
+
+4. An "evaluation function" that computes a numeric "goodness" score for a given
+   puzzle state. Popular choice: "the number of tiles that are out of place relative to
+   the goal state"
+
+5. Useful: a function that will print out the puzzle state in a somewhat visually 
+   appealing form.
+
+
+If I had to do his, I would probably do this in the order of
+
+1., 5., 2., 4., and 3. last. 
+
+
+
+
+
+
+
+

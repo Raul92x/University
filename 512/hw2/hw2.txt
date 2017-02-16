@@ -1,0 +1,10 @@
+Exercise 3:
+(1 point) Comparing the outcomes of both sets of 100 runs, which seems to
+be the "better" evaluation function. Judge on the basis of the quality of the solution
+(incl. path) and efciency of problem solving measured by the number of expanded nodes.
+State and explain in 1-2 sentences.
+
+my answer:
+i believe the better evaluation function is the first one. it responded more quicker
+than the second evaluation function. the first evaluation had lower numbers aswell
+which i belive makes it the one with better quality and speed.
